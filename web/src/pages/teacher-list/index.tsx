@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import PageHeader from '../../components/page-header';
+import TeacherItem from '../../components/teacher-item';
 
 import './style.css'
 
@@ -24,6 +25,13 @@ function TeacherList() {
                     </div>
                 </form>
             </PageHeader>
+
+            <main>
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+                <TeacherItem />
+            </main>
         </div>
     )
 }
