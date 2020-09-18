@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGGXq/KWxm8Yng/KDSChO6aE5mp16zXwVplnOwMyIfrrKWrAxtyUtI4ar4CsVau5U93HdHGgJi6ar86gLove6A==",
+  "success": true,
+  "projectFilePath": "/Users/leonardoborba/Documents/omnistack/omnistack-proffy/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardoborba/.nuget/packages/microsoft.data.sqlite/3.1.8/microsoft.data.sqlite.3.1.8.nupkg.sha512",
+    "/Users/leonardoborba/.nuget/packages/microsoft.data.sqlite.core/3.1.8/microsoft.data.sqlite.core.3.1.8.nupkg.sha512",
+    "/Users/leonardoborba/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
+    "/Users/leonardoborba/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
+    "/Users/leonardoborba/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
+    "/Users/leonardoborba/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
+    "/Users/leonardoborba/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
