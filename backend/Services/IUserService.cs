@@ -1,10 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using backend.Models;
 
-namespace backend.ProductMaster
+namespace backend.Services
 {
-    public interface IProductProvider
+    public interface IUserService
     {
-        Task<IEnumerable<Product>> Get();
+        Task<IEnumerable<User>> Get();
+        Task Create(User user);
     }
 }

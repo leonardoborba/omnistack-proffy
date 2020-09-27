@@ -1,12 +1,12 @@
 ﻿using System;
-namespace backend.ProductMaster
+namespace backend.Models
 {
-    public class Users
+    public class User
     {
-        public int Id { get; set; }
-
-        public string Name { get; set; }
-
-        public string Description { get; set; }
+        public int id { get; set; }
+        public string name { get; set; }
+        public string avatar { get; set; }
+        public string whatsapp { get; set; }
+        public string bio { get; set; }
     }
 }

@@ -28,6 +28,7 @@ namespace backend.Controllers
         public IEnumerable<WeatherForecast> Get()
         {
             var rng = new Random();
+            this._logger.LogInformation("Teste");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),

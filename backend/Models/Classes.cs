@@ -1,12 +1,11 @@
 ﻿using System;
 namespace backend.Models
 {
-    public class User
+    public class Classes
     {
         public int id { get; set; }
-        public string name { get; set; }
-        public string avatar { get; set; }
-        public string whatsapp { get; set; }
-        public string bio { get; set; }
+        public string subject { get; set; }
+        public string cost { get; set; }
+        public string user_id { get; set; }
     }
 }
